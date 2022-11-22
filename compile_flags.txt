@@ -1,2 +1,1 @@
---language=c++
--std=c++17
+-std=c11
